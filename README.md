@@ -1,6 +1,5 @@
 # Employee_Health_Data_Analysis
 
-# Employee Health & Workplace Analytics
 
 This project cleans, processes, and analyzes employee demographics alongside health and wellness metrics. Using Python, Pandas, and NumPy, the pipeline transforms raw data into structured insights regarding workplace productivity, stress levels, work-life balance, and departmental demographics.
 
